@@ -26,7 +26,7 @@ def inputs():
 
 def main():
     while True:
-        type_intrest = input("Do you want to select Type of Interest? 1.Simple Interest, 2. Compound Interest  ")
+        type_intrest = input("Do you want to select Type of Interest? 1.Simple Interest, 2. Compound Interest: ")
 
         if type_intrest == "1":
             principal, term, rate = inputs()
