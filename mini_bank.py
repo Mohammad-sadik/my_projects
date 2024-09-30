@@ -28,4 +28,4 @@ Username_02 = BankAccount("002")
 Username_01.deposit(250)
 Username_02.deposit(50)
 
-transfer_amount(Username_01, Username_02, 500)
+transfer_amount(Username_01, Username_02, 50)
